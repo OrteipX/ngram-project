@@ -1,0 +1,28 @@
+Her favorite dessert is chocolate ice cream.
+
+Her favorite dessert is chocolate ice cream
+
+2 level n-gram
+
+Her_favorite, 
+favorite_dessert, 
+dessert_is, 
+is_chocolate, 
+chocolate_ice, 
+ice_cream, frozen dessert containing cream and sugar and flavoring
+
+3 level n-gram
+
+Her_favorite_dessert, 
+favorite_dessert_is, 
+dessert_is_chocolate, 
+is_chocolate_ice, 
+chocolate_ice_cream, ice cream flavored with chocolate
+
+4 level n-gram
+
+Her_favorite_dessert_is, 
+favorite_dessert_is_chocolate, 
+dessert_is_chocolate_ice, 
+is_chocolate_ice_cream, 
+

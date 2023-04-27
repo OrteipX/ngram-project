@@ -1,0 +1,40 @@
+I am flying to San Francisco to visit a venture capitalist.
+
+I am flying to San Francisco to visit a venture capitalist
+
+2 level n-gram
+
+I_am, 
+am_flying, 
+flying_to, 
+to_San, 
+San_Francisco, a port in western California near the Golden Gate that is one of the major industrial and transportation centers<< and >> it has one of the world's finest harbors<< and >> site of the Golden Gate Bridge
+Francisco_to, 
+to_visit, 
+visit_a, 
+a_venture, 
+venture_capitalist, a speculator who makes money available for innovative projects (especially in high technology)
+
+3 level n-gram
+
+I_am_flying, 
+am_flying_to, 
+flying_to_San, 
+to_San_Francisco, 
+San_Francisco_to, 
+Francisco_to_visit, 
+to_visit_a, 
+visit_a_venture, 
+a_venture_capitalist, 
+
+4 level n-gram
+
+I_am_flying_to, 
+am_flying_to_San, 
+flying_to_San_Francisco, 
+to_San_Francisco_to, 
+San_Francisco_to_visit, 
+Francisco_to_visit_a, 
+to_visit_a_venture, 
+visit_a_venture_capitalist, 
+

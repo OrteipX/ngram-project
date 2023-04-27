@@ -1,0 +1,37 @@
+Thomas Jefferson did not build the Leaning Tower of Pisa.
+
+Thomas Jefferson did not build the Leaning Tower of Pisa
+
+2 level n-gram
+
+Thomas_Jefferson, 3rd President of the United States<< and >> chief drafter of the Declaration of Independence<< and >> made the Louisiana Purchase in 1803 and sent out the Lewis and Clark Expedition to explore it (1743-1826)
+Jefferson_did, 
+did_not, 
+not_build, 
+build_the, 
+the_Leaning, 
+Leaning_Tower, a tall round marble campanile in Pisa that is not perpendicular<< and >> construction was begun in 1174
+Tower_of, 
+of_Pisa, 
+
+3 level n-gram
+
+Thomas_Jefferson_did, 
+Jefferson_did_not, 
+did_not_build, 
+not_build_the, 
+build_the_Leaning, 
+the_Leaning_Tower, 
+Leaning_Tower_of, 
+Tower_of_Pisa, 
+
+4 level n-gram
+
+Thomas_Jefferson_did_not, 
+Jefferson_did_not_build, 
+did_not_build_the, 
+not_build_the_Leaning, 
+build_the_Leaning_Tower, 
+the_Leaning_Tower_of, 
+Leaning_Tower_of_Pisa, a tall round marble campanile in Pisa that is not perpendicular<< and >> construction was begun in 1174
+

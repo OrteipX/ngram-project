@@ -1,0 +1,37 @@
+Thomas Jefferson began building Monticello at the age of 26.
+
+Thomas Jefferson began building Monticello at the age of 26
+
+2 level n-gram
+
+Thomas_Jefferson, 3rd President of the United States<< and >> chief drafter of the Declaration of Independence<< and >> made the Louisiana Purchase in 1803 and sent out the Lewis and Clark Expedition to explore it (1743-1826)
+Jefferson_began, 
+began_building, 
+building_Monticello, 
+Monticello_at, 
+at_the, 
+the_age, 
+age_of, 
+of_26, 
+
+3 level n-gram
+
+Thomas_Jefferson_began, 
+Jefferson_began_building, 
+began_building_Monticello, 
+building_Monticello_at, 
+Monticello_at_the, 
+at_the_age, 
+the_age_of, 
+age_of_26, 
+
+4 level n-gram
+
+Thomas_Jefferson_began_building, 
+Jefferson_began_building_Monticello, 
+began_building_Monticello_at, 
+building_Monticello_at_the, 
+Monticello_at_the_age, 
+at_the_age_of, 
+the_age_of_26, 
+

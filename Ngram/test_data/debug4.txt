@@ -1,0 +1,37 @@
+The Canadian Prime Minister is also a member of parliament.
+
+The Canadian Prime Minister is also a member of parliament
+
+2 level n-gram
+
+The_Canadian, 
+Canadian_Prime, 
+Prime_Minister, the person who holds the position of head of the government in the United Kingdom<< or >>the person who is head of government (in several countries)
+Minister_is, 
+is_also, 
+also_a, 
+a_member, 
+member_of, 
+of_parliament, 
+
+3 level n-gram
+
+The_Canadian_Prime, 
+Canadian_Prime_Minister, 
+Prime_Minister_is, 
+Minister_is_also, 
+is_also_a, 
+also_a_member, 
+a_member_of, 
+member_of_parliament, an elected member of the British Parliament: a member of the House of Commons
+
+4 level n-gram
+
+The_Canadian_Prime_Minister, 
+Canadian_Prime_Minister_is, 
+Prime_Minister_is_also, 
+Minister_is_also_a, 
+is_also_a_member, 
+also_a_member_of, 
+a_member_of_parliament, 
+
